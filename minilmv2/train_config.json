@@ -1,0 +1,8 @@
+{
+    "urls": [
+        "http://url_of_bookcorpus/book-part-00.txt.gz",
+        "http://url_of_wikipedia/wiki-part-00.txt.gz"
+    ],
+    "format": "text",
+    "columns": "text"
+}
