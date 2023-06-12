@@ -25,5 +25,5 @@ setup(name='minilmv2',
       license='Apache 2.0',
       packages=['minilmv2'],
       package_data={"": ["*.json"]},
-      install_requires=['transformers==4.20.1', 'datasets==2.1.0', "torch==1.9.0", "awscli", "evaluate", "scipy", "scikit-learn"],
+      install_requires=['transformers==4.30.0', 'datasets==2.1.0', "torch==1.9.0", "awscli", "evaluate", "scipy", "scikit-learn"],
       zip_safe=False)
